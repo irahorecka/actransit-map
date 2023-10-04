@@ -10,7 +10,7 @@ numpy==1.22.0
 packaging==20.0
 pandas==0.25.3
 phantomjs==1.1.4
-Pillow==9.3.0
+Pillow==10.0.1
 protobuf==3.18.3
 protobuf3-to-dict==0.1.5
 pyparsing==2.4.6
