@@ -1,4 +1,4 @@
-# AC_transit_map
+# actransit-map
 
 A Jupyter notebook repository for plotting real-time AC Transit bus coordinates on a map.
 ## **Introduction**<br>
