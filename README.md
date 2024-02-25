@@ -1,5 +1,9 @@
 # actransit-map
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AC_Transit_logo_%282014%2B%29.svg/1200px-AC_Transit_logo_%282014%2B%29.svg.png" width="50%" />
+</p>
+
 A Jupyter notebook repository for plotting real-time AC Transit bus coordinates on a map.
 ## **Introduction**<br>
 ```metro_mapping.ipynb``` and ```gif_generator.ipynb``` complement each other in:
