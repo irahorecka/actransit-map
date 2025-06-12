@@ -18,7 +18,7 @@ python-actransit==0.0.3
 python-dateutil==2.8.1
 pytz==2019.3
 PyYAML==5.4
-requests==2.32.0
+requests==2.32.4
 selenium==3.141.0
 six==1.14.0
 tornado==6.5.1
