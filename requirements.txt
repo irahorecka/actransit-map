@@ -11,7 +11,7 @@ packaging==20.0
 pandas==0.25.3
 phantomjs==1.1.4
 Pillow==10.3.0
-protobuf==3.18.3
+protobuf==4.25.8
 protobuf3-to-dict==0.1.5
 pyparsing==2.4.6
 python-actransit==0.0.3
